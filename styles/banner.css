@@ -27,7 +27,7 @@
     font-weight: 400;
     text-align: center;
     color: var(--branco);
-    background: url(/Assets/Lupa.svg);
+    background: url(../Assets/Lupa.svg);
     background-repeat: no-repeat;
     background-position: 0.2rem;
     
