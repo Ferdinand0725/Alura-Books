@@ -3,7 +3,7 @@
 .cabecalho_menu{
     height: 1.5rem;
     width: 1.5rem;
-    background-image: url(/Assets/Menu.svg);
+    background-image: url(../Assets/Menu.svg);
     background-repeat: no-repeat;
     background-position: center;
     display: inline-block;
