@@ -16,7 +16,7 @@
     font-weight: 400;
     text-align: center;
     color: var(--azul-degrade);
-    background: url(/Assets/Email.svg);
+    background: url(../Assets/Email.svg);
     background-repeat: no-repeat;
     background-position: 0.2rem;
 }
